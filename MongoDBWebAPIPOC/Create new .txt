@@ -1,0 +1,8 @@
+run 
+dotnet new webapi -n MongoDBWebAPIPOC
+
+cd MongoDBWebAPIPOC
+
+dotnet new sln
+
+dotnet sln add MongoDBWebAPIPOC.csproj

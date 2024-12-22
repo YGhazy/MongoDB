@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1J9BWEy0DLp4uRMzJby+7b3qb/fAKB3ZJb5jT0ymDFM=",
+  "Source": "MongoDBWebAPIPOC",
+  "BasePath": "_content/MongoDBWebAPIPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

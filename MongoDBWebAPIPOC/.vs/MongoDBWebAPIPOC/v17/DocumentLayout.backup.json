@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\infra\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:infra\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\models\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:models\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|d:\\projects\\objectives\\2024 - q3\\mongodbwebapipoc\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCF9F9-378C-4667-8778-FFB574479B27}|MongoDBWebAPIPOC.csproj|solutionrelative:mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\Infra\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "Infra\\MongoDbContext.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\Infra\\MongoDbContext.cs",
+              "RelativeToolTip": "Infra\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:08:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:58:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\Models\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\CreateProductDto.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\Models\\CreateProductDto.cs",
+              "RelativeToolTip": "Models\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:43:15.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T09:18:36.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductRepository.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\ProductRepository.cs",
+              "RelativeToolTip": "ProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:28:05.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductController.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\ProductController.cs",
+              "RelativeToolTip": "ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:49:40.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\ProductService.cs",
+              "RelativeToolTip": "ProductService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwF8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:29:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "MongoDBSettings.cs",
+              "ToolTip": "D:\\Projects\\Objectives\\2024 - Q3\\MongoDBWebAPIPOC\\MongoDBSettings.cs",
+              "RelativeToolTip": "MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:37:31.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

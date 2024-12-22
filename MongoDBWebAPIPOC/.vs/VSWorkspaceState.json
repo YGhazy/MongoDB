@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0",
+    "\\bin\\Release",
+    "\\Infra",
+    "\\Models",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Models\\Product.cs",
+  "PreviewInSolutionExplorer": false
+}
